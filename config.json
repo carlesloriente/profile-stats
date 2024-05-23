@@ -3,6 +3,11 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "carlesloriente",
+    "carlesloriente.github.io",
+    "nocc-bootstrap-theme",
+    "dotfiles",
+    "sign-kernel-modules-secureboot",
+    "bootstrap-theme-jekyll"
   ]
 }
