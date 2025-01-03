@@ -8,6 +8,7 @@
     "nocc-bootstrap-theme",
     "dotfiles",
     "sign-kernel-modules-secureboot",
-    "bootstrap-theme-jekyll"
+    "bootstrap-theme-jekyll",
+    "jekyllthemes"
   ]
 }
