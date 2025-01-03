@@ -1,7 +1,7 @@
 ## [🔙 profile-stats](https://github.com/carlesloriente/profile-stats)
 
-### :octocat: [bootstrap-theme-jekyll](https://github.com/carlesloriente/bootstrap-theme-jekyll)
-![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/graph/761267599/large/year.png)
+### :octocat: [jekyllthemes](https://github.com/carlesloriente/jekyllthemes)
+![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/graph/898128031/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -26,7 +26,7 @@
 			<code>1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>12</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2024/12/1</code>
 		</td>
 		<td>
-			<code>10</code>
+			<code>12</code>
 		</td>
 		<td>
-			<code>67</code>
+			<code>178</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2024/11/1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>23</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2024/10/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>15</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2024/9/1</code>
 		</td>
 		<td>
-			<code>21</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>82</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2024/8/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2024/7/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2024/6/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/1/3 6:21 AM UTC</i></small>
+<small><i>Last updated on 2025/1/3 6:22 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/svg/761267599/badge.svg)](https://github.com/carlesloriente/profile-stats/blob/master/readme/761267599/week.md)
+[![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/svg/898128031/badge.svg)](https://github.com/carlesloriente/profile-stats/blob/master/readme/898128031/week.md)
 ```readme
-[![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/svg/761267599/badge.svg)](https://github.com/carlesloriente/profile-stats/blob/master/readme/761267599/week.md)
+[![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/svg/898128031/badge.svg)](https://github.com/carlesloriente/profile-stats/blob/master/readme/898128031/week.md)
 ```
 ### Header
-# bootstrap-theme-jekyll [<img alt="Image of profile-stats" src="https://github.com/carlesloriente/profile-stats/blob/master/graph/761267599/small/year.png" height="20">](https://github.com/carlesloriente/profile-stats/blob/master/readme/761267599/year.md)
+# jekyllthemes [<img alt="Image of profile-stats" src="https://github.com/carlesloriente/profile-stats/blob/master/graph/898128031/small/year.png" height="20">](https://github.com/carlesloriente/profile-stats/blob/master/readme/898128031/year.md)
 ```readme
-# bootstrap-theme-jekyll [<img alt="Image of profile-stats" src="https://github.com/carlesloriente/profile-stats/blob/master/graph/761267599/small/year.png" height="20">](https://github.com/carlesloriente/profile-stats/blob/master/readme/761267599/year.md)
+# jekyllthemes [<img alt="Image of profile-stats" src="https://github.com/carlesloriente/profile-stats/blob/master/graph/898128031/small/year.png" height="20">](https://github.com/carlesloriente/profile-stats/blob/master/readme/898128031/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
