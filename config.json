@@ -9,6 +9,8 @@
     "dotfiles",
     "sign-kernel-modules-secureboot",
     "bootstrap-theme-jekyll",
-    "jekyllthemes"
+    "jekyllthemes",
+    "my-public-repo",
+    "my-private-repo"
   ]
 }
