@@ -1,7 +1,7 @@
 ## [🔙 profile-stats](https://github.com/carlesloriente/profile-stats)
 
-### :octocat: [jekyllthemes](https://github.com/carlesloriente/jekyllthemes)
-![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/graph/898128031/large/year.png)
+### :octocat: [my-public-repo](https://github.com/carlesloriente/my-public-repo)
+![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/graph/921942646/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2025/1/1</code>
 		</td>
 		<td>
-			<code>18</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>56</code>
+			<code>1</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2024/12/1</code>
 		</td>
 		<td>
-			<code>11</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>83</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/svg/898128031/badge.svg)](https://github.com/carlesloriente/profile-stats/blob/master/readme/898128031/week.md)
+[![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/svg/921942646/badge.svg)](https://github.com/carlesloriente/profile-stats/blob/master/readme/921942646/week.md)
 ```readme
-[![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/svg/898128031/badge.svg)](https://github.com/carlesloriente/profile-stats/blob/master/readme/898128031/week.md)
+[![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/svg/921942646/badge.svg)](https://github.com/carlesloriente/profile-stats/blob/master/readme/921942646/week.md)
 ```
 ### Header
-# jekyllthemes [<img alt="Image of profile-stats" src="https://github.com/carlesloriente/profile-stats/blob/master/graph/898128031/small/year.png" height="20">](https://github.com/carlesloriente/profile-stats/blob/master/readme/898128031/year.md)
+# my-public-repo [<img alt="Image of profile-stats" src="https://github.com/carlesloriente/profile-stats/blob/master/graph/921942646/small/year.png" height="20">](https://github.com/carlesloriente/profile-stats/blob/master/readme/921942646/year.md)
 ```readme
-# jekyllthemes [<img alt="Image of profile-stats" src="https://github.com/carlesloriente/profile-stats/blob/master/graph/898128031/small/year.png" height="20">](https://github.com/carlesloriente/profile-stats/blob/master/readme/898128031/year.md)
+# my-public-repo [<img alt="Image of profile-stats" src="https://github.com/carlesloriente/profile-stats/blob/master/graph/921942646/small/year.png" height="20">](https://github.com/carlesloriente/profile-stats/blob/master/readme/921942646/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

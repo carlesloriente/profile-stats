@@ -131,9 +131,41 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/carlesloriente/profile-stats/raw/master/graph/898128031/small/year.png" height="20"> 278
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/carlesloriente/profile-stats/tree/master/readme/921942646/year.md">
+				my-public-repo
+			</a>
+		</td>
+		<td>
+			2025/1/25 6:21 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/carlesloriente/profile-stats/raw/master/graph/921942646/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/carlesloriente/profile-stats/tree/master/readme/921942705/year.md">
+				my-private-repo
+			</a>
+		</td>
+		<td>
+			2025/1/25 12:00 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/carlesloriente/profile-stats/raw/master/graph/921942705/small/year.png" height="20"> 7
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/1/28 2:47 AM UTC</i></small>
+<small><i>Last updated on 2025/1/28 6:21 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
