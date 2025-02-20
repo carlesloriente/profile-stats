@@ -11,6 +11,7 @@
     "bootstrap-theme-jekyll",
     "jekyllthemes",
     "my-public-repo",
-    "my-private-repo"
+    "my-private-repo",
+    "jekyll-theme-nocc"
   ]
 }
