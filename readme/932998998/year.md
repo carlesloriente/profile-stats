@@ -1,7 +1,7 @@
 ## [🔙 profile-stats](https://github.com/carlesloriente/profile-stats)
 
-### :octocat: [bootstrap-theme-jekyll](https://github.com/carlesloriente/bootstrap-theme-jekyll)
-![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/graph/761267599/large/year.png)
+### :octocat: [jekyll-theme-nocc](https://github.com/carlesloriente/jekyll-theme-nocc)
+![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/graph/932998998/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2025/2/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>9</code>
 		</td>
 		<td>
-			<code>20</code>
+			<code>352</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2025/1/1</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>34</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2024/12/1</code>
 		</td>
 		<td>
-			<code>10</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>67</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2024/11/1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>23</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2024/10/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>15</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2024/9/1</code>
 		</td>
 		<td>
-			<code>21</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>82</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2024/8/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2024/7/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -111,10 +111,10 @@
 			<code>2024/6/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/svg/761267599/badge.svg)](https://github.com/carlesloriente/profile-stats/blob/master/readme/761267599/week.md)
+[![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/svg/932998998/badge.svg)](https://github.com/carlesloriente/profile-stats/blob/master/readme/932998998/week.md)
 ```readme
-[![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/svg/761267599/badge.svg)](https://github.com/carlesloriente/profile-stats/blob/master/readme/761267599/week.md)
+[![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/svg/932998998/badge.svg)](https://github.com/carlesloriente/profile-stats/blob/master/readme/932998998/week.md)
 ```
 ### Header
-# bootstrap-theme-jekyll [<img alt="Image of profile-stats" src="https://github.com/carlesloriente/profile-stats/blob/master/graph/761267599/small/year.png" height="20">](https://github.com/carlesloriente/profile-stats/blob/master/readme/761267599/year.md)
+# jekyll-theme-nocc [<img alt="Image of profile-stats" src="https://github.com/carlesloriente/profile-stats/blob/master/graph/932998998/small/year.png" height="20">](https://github.com/carlesloriente/profile-stats/blob/master/readme/932998998/year.md)
 ```readme
-# bootstrap-theme-jekyll [<img alt="Image of profile-stats" src="https://github.com/carlesloriente/profile-stats/blob/master/graph/761267599/small/year.png" height="20">](https://github.com/carlesloriente/profile-stats/blob/master/readme/761267599/year.md)
+# jekyll-theme-nocc [<img alt="Image of profile-stats" src="https://github.com/carlesloriente/profile-stats/blob/master/graph/932998998/small/year.png" height="20">](https://github.com/carlesloriente/profile-stats/blob/master/readme/932998998/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
