@@ -1,7 +1,7 @@
 ## [🔙 profile-stats](https://github.com/carlesloriente/profile-stats)
 
-### :octocat: [bootstrap-theme-jekyll](https://github.com/carlesloriente/bootstrap-theme-jekyll)
-![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/graph/761267599/large/year.png)
+### :octocat: [yet-another-github-card](https://github.com/carlesloriente/yet-another-github-card)
+![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/graph/827047524/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2025/12/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>5</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>213</code>
 		</td>
 	</tr>
 	<tr>
@@ -111,10 +111,10 @@
 			<code>2025/4/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -122,10 +122,10 @@
 			<code>2025/3/1</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>53</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -133,10 +133,10 @@
 			<code>2025/2/1</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>24</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -144,10 +144,10 @@
 			<code>2025/1/1</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>34</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -155,27 +155,27 @@
 			<code>2024/12/1</code>
 		</td>
 		<td>
-			<code>10</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>67</code>
+			<code>0</code>
 		</td>
 	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2025/12/17 11:32 PM UTC</i></small>
+<small><i>Last updated on 2025/12/17 11:33 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/svg/761267599/badge.svg)](https://github.com/carlesloriente/profile-stats/blob/master/readme/761267599/week.md)
+[![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/svg/827047524/badge.svg)](https://github.com/carlesloriente/profile-stats/blob/master/readme/827047524/week.md)
 ```readme
-[![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/svg/761267599/badge.svg)](https://github.com/carlesloriente/profile-stats/blob/master/readme/761267599/week.md)
+[![Image of profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/svg/827047524/badge.svg)](https://github.com/carlesloriente/profile-stats/blob/master/readme/827047524/week.md)
 ```
 ### Header
-# bootstrap-theme-jekyll [<img alt="Image of profile-stats" src="https://github.com/carlesloriente/profile-stats/blob/master/graph/761267599/small/year.png" height="20">](https://github.com/carlesloriente/profile-stats/blob/master/readme/761267599/year.md)
+# yet-another-github-card [<img alt="Image of profile-stats" src="https://github.com/carlesloriente/profile-stats/blob/master/graph/827047524/small/year.png" height="20">](https://github.com/carlesloriente/profile-stats/blob/master/readme/827047524/year.md)
 ```readme
-# bootstrap-theme-jekyll [<img alt="Image of profile-stats" src="https://github.com/carlesloriente/profile-stats/blob/master/graph/761267599/small/year.png" height="20">](https://github.com/carlesloriente/profile-stats/blob/master/readme/761267599/year.md)
+# yet-another-github-card [<img alt="Image of profile-stats" src="https://github.com/carlesloriente/profile-stats/blob/master/graph/827047524/small/year.png" height="20">](https://github.com/carlesloriente/profile-stats/blob/master/readme/827047524/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

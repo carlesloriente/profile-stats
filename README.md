@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:45 AM UTC
+			2025/12/15 12:00 AM UTC
 		</td>
 		<td>
-			44
+			46
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/carlesloriente/profile-stats/raw/master/graph/360487937/small/year.png" height="20"> 158
+			<img alt="Response time graph" src="https://github.com/carlesloriente/profile-stats/raw/master/graph/360487937/small/year.png" height="20"> 177
 		</td>
 	</tr>
 	<tr>
@@ -42,13 +42,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:45 AM UTC
+			2025/12/15 12:00 AM UTC
 		</td>
 		<td>
-			78
+			80
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/carlesloriente/profile-stats/raw/master/graph/208288753/small/year.png" height="20"> 780
+			<img alt="Response time graph" src="https://github.com/carlesloriente/profile-stats/raw/master/graph/208288753/small/year.png" height="20"> 793
 		</td>
 	</tr>
 	<tr>
@@ -58,13 +58,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:45 AM UTC
+			2025/12/15 12:00 AM UTC
 		</td>
 		<td>
-			65
+			69
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/carlesloriente/profile-stats/raw/master/graph/768908011/small/year.png" height="20"> 1074
+			<img alt="Response time graph" src="https://github.com/carlesloriente/profile-stats/raw/master/graph/768908011/small/year.png" height="20"> 1107
 		</td>
 	</tr>
 	<tr>
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:45 AM UTC
+			2025/12/15 11:32 PM UTC
 		</td>
 		<td>
 			4
@@ -90,13 +90,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 12:00 AM UTC
+			2025/12/15 11:32 PM UTC
 		</td>
 		<td>
-			65
+			69
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/carlesloriente/profile-stats/raw/master/graph/745608489/small/year.png" height="20"> 126
+			<img alt="Response time graph" src="https://github.com/carlesloriente/profile-stats/raw/master/graph/745608489/small/year.png" height="20"> 140
 		</td>
 	</tr>
 	<tr>
@@ -106,13 +106,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:45 AM UTC
+			2025/12/15 11:32 PM UTC
 		</td>
 		<td>
-			74
+			77
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/carlesloriente/profile-stats/raw/master/graph/761267599/small/year.png" height="20"> 352
+			<img alt="Response time graph" src="https://github.com/carlesloriente/profile-stats/raw/master/graph/761267599/small/year.png" height="20"> 355
 		</td>
 	</tr>
 	<tr>
@@ -122,13 +122,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:46 AM UTC
+			2025/12/15 11:32 PM UTC
 		</td>
 		<td>
-			102
+			103
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/carlesloriente/profile-stats/raw/master/graph/898128031/small/year.png" height="20"> 975
+			<img alt="Response time graph" src="https://github.com/carlesloriente/profile-stats/raw/master/graph/898128031/small/year.png" height="20"> 976
 		</td>
 	</tr>
 	<tr>
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:46 AM UTC
+			2025/12/15 11:33 PM UTC
 		</td>
 		<td>
 			3
@@ -154,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:46 AM UTC
+			2025/12/15 11:33 PM UTC
 		</td>
 		<td>
 			4
@@ -170,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/4/13 2:46 AM UTC
+			2025/12/15 11:33 PM UTC
 		</td>
 		<td>
 			23
@@ -179,9 +179,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/carlesloriente/profile-stats/raw/master/graph/932998998/small/year.png" height="20"> 402
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/carlesloriente/profile-stats/tree/master/readme/827047524/year.md">
+				yet-another-github-card
+			</a>
+		</td>
+		<td>
+			2025/12/14 12:00 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/carlesloriente/profile-stats/raw/master/graph/827047524/small/year.png" height="20"> 213
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/4/15 12:34 PM UTC</i></small>
+<small><i>Last updated on 2025/12/17 11:33 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
