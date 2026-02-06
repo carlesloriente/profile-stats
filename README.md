@@ -85,22 +85,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/carlesloriente/profile-stats/tree/master/readme/745608489/year.md">
-				sign-kernel-modules-secureboot
-			</a>
-		</td>
-		<td>
-			2026/2/4 1:19 AM UTC
-		</td>
-		<td>
-			81
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/carlesloriente/profile-stats/raw/master/graph/745608489/small/year.png" height="20"> 156
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/carlesloriente/profile-stats/tree/master/readme/761267599/year.md">
 				bootstrap-theme-jekyll
 			</a>
@@ -113,22 +97,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/carlesloriente/profile-stats/raw/master/graph/761267599/small/year.png" height="20"> 357
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/carlesloriente/profile-stats/tree/master/readme/898128031/year.md">
-				jekyllthemes
-			</a>
-		</td>
-		<td>
-			2026/2/4 1:19 AM UTC
-		</td>
-		<td>
-			117
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/carlesloriente/profile-stats/raw/master/graph/898128031/small/year.png" height="20"> 1031
 		</td>
 	</tr>
 	<tr>
@@ -197,7 +165,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/2/6 12:41 PM UTC</i></small>
+<small><i>Last updated on 2026/2/6 6:38 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
